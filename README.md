@@ -1,2 +1,2 @@
-# bower-ripple-lib-extensions
-Ripple-lib extensions for browser clients
+# ripple-orderbook
+Orderbook Extension for Ripple-Lib
